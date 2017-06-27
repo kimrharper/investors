@@ -8,9 +8,21 @@ body {
 	color: darkblue;
 	background: #fff url(http://summemedicalclinic.com/wp-content/uploads/Gradient-Background-1.jpg)
 	}
+	h1{
+		color:darkblue;
+		font:5em georgia;
+		text-align: center;
+	}
+	h2{
+		color:darkblue;
+		font:2.5em georgia;
+		text-align: center;
+	}
 p {
+	color:darkblue;
+	font:2.5em georgia;
+	text-align: center;
 	margin-top: 0;
-	text-align: justify;
 	}
 h3 {
   color: #darkblue;
