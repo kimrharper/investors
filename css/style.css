@@ -7,8 +7,8 @@ body {
 	font: 75% georgia;
 	line-height: 1.88889;
 	color: darkblue;
-	background: #fff url("../gradient.jpg");
-	background-size: 1500px 1500px;
+	background: #fff url("http://gift-of-life.org/wp-content/uploads/2014/06/light_blue_background-wallpaper-1920x1080-1.jpg");
+	background-size: 2000px 1500px
 
 	}
 	h1{
@@ -49,3 +49,10 @@ ul{
 		margin-left: auto;
 		margin-right: auto;
 	}
+
+.list-3 {
+	display: block;
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
