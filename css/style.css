@@ -6,27 +6,60 @@ body {
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
 	color: #ffffff;
-	background: #fff url(http://wallpapercave.com/wp/btidxjR.jpg)
+	background: #fff url(http://wallpapercave.com/wp/btidxjR.jpg);
+	background-size: 2000px 1500px
 
 	}
-p {
-	margin-top: 0;
-	text-align: justify;
-	}
-h3 {
-  color: #ffffff;
-	font: italic normal 2.5em georgia, sans-serif;
-	letter-spacing: 1px;
-	margin-bottom: 0;
-	}
+
 h1{
 	color: white
-
-
+	font:5em georgia;
+	text-align: center;
 }
 a:link {
 	color: white;
 }
 a:visited {
-	color:teal
+	color:lightyellow
+}
+
+	h2{
+		color:white;
+		font:2.5em georgia;
+		text-align: center;
+	}
+p {
+	color:white;
+	font:2.5em georgia;
+	text-align: center;
+	margin-top: 0;
+	}
+h3 {
+  color: white;
+	font: italic normal 1.5em georgia, sans-serif;
+	letter-spacing: 1px;
+	text-align: center;
+	margin-bottom: 0;
+	}
+ul{
+	font-size: x-large;
+}
+	.list {
+	  display: block;
+	  width: 500px;
+	  margin-left: auto;
+	  margin-right: auto;
+	}
+	.list-2 {
+		display: block;
+		width: 500px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+.list-3 {
+	display: block;
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
 }
