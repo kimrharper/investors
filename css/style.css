@@ -3,10 +3,12 @@ html {
 	padding: 0;
 	}
 body {
+
 	font: 75% georgia;
 	line-height: 1.88889;
 	color: darkblue;
-	background: #fff url(http://summemedicalclinic.com/wp-content/uploads/Gradient-Background-1.jpg)
+	background-image: url("gradient.jpg");
+
 	}
 	h1{
 		color:darkblue;
@@ -29,4 +31,13 @@ h3 {
 	font: italic normal 1.5em georgia, sans-serif;
 	letter-spacing: 1px;
 	margin-bottom: 0;
+	}
+ul{
+	font-size: x-large;
+}
+	.list {
+	  display: block;
+	  width: 500px;
+	  margin-left: auto;
+	  margin-right: auto;
 	}
