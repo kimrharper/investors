@@ -1,2 +1,0 @@
-# investor
-Investor stuffs
