@@ -12,8 +12,8 @@ body {
 	}
 
 h1{
-	color: white
-	font:5em georgia;
+	color: white;
+	font: 5em georgia;
 	text-align: center;
 }
 a:link {
@@ -23,10 +23,10 @@ a:visited {
 	color:lightyellow
 }
 
-	h2{
-		color:white;
-		font:2.5em georgia;
-		text-align: center;
+h2{
+	color:white;
+	font:2.5em georgia;
+	text-align: center;
 	}
 p {
 	color:white;
