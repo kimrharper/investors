@@ -7,7 +7,8 @@ body {
 	font: 75% georgia;
 	line-height: 1.88889;
 	color: darkblue;
-	background-image:blue url(http://wallpapercave.com/wp/btidxjR.jpg);
+	background: #fff url(http://gift-of-life.org/wp-content/uploads/2014/06/light_blue_background-wallpaper-1920x1080-1.jpg);
+	background-size: 1500px 1500px
 
 	}
 	h1{
@@ -30,6 +31,7 @@ h3 {
   color: #darkblue;
 	font: italic normal 1.5em georgia, sans-serif;
 	letter-spacing: 1px;
+	text-align: center;
 	margin-bottom: 0;
 	}
 ul{
@@ -40,4 +42,10 @@ ul{
 	  width: 500px;
 	  margin-left: auto;
 	  margin-right: auto;
+	}
+	.list-2 {
+		display: block;
+		width: 500px;
+		margin-left: auto;
+		margin-right: auto;
 	}
